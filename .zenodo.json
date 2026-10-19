@@ -1,0 +1,23 @@
+{
+  "title": "Code and data for: Gradient boosting correction of SEAS5 monthly rainfall forecasts for 38 provinces in Indonesia",
+  "upload_type": "software",
+  "description": "Code, SEAS5 and CHIRPS province data, forecasts and verification results for the manuscript \"Gradient boosting correction of SEAS5 monthly rainfall forecasts for 38 provinces in Indonesia: A comparison with quantile mapping\". LightGBM gradient boosting is compared with climatology, damped anomaly persistence, raw SEAS5, mean-bias correction, empirical quantile mapping and linear MOS for monthly rainfall in the 38 provinces of Indonesia at lead times of one to six months, in a rolling-origin test over 2005-2024. Contains modified Copernicus Climate Change Service information 2026.",
+  "creators": [
+    {
+      "name": "Nurwahid, Arif",
+      "affiliation": "Graduate School of Science and Engineering, Ehime University",
+      "orcid": "0009-0005-8802-9629"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "seasonal forecast",
+    "post-processing",
+    "gradient boosting",
+    "quantile mapping",
+    "monthly rainfall",
+    "Indonesia",
+    "SEAS5"
+  ],
+  "access_right": "open"
+}

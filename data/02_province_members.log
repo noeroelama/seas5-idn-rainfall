@@ -1,0 +1,10 @@
+member rows: 3305088 | ensemble rows: 109440 (expected 109440)
+initialisations: 1985-01-01 to 2024-12-01 | target months: 1985-01-01 to 2025-05-01
+members per initialisation, up to 2016: [25] | from 2017: [51]
+negative values: 0 | missing values: 0
+  lead 1: SEAS5 mean  243.6 mm, CHIRPS mean  221.1 mm, bias  +22.4 mm, correlation incl. seasonal cycle 0.734, n = 17784
+  lead 2: SEAS5 mean  235.0 mm, CHIRPS mean  221.1 mm, bias  +13.9 mm, correlation incl. seasonal cycle 0.691, n = 17784
+  lead 3: SEAS5 mean  235.4 mm, CHIRPS mean  221.1 mm, bias  +14.2 mm, correlation incl. seasonal cycle 0.671, n = 17784
+  lead 4: SEAS5 mean  233.5 mm, CHIRPS mean  221.1 mm, bias  +12.3 mm, correlation incl. seasonal cycle 0.655, n = 17784
+  lead 5: SEAS5 mean  230.9 mm, CHIRPS mean  221.1 mm, bias   +9.8 mm, correlation incl. seasonal cycle 0.641, n = 17784
+  lead 6: SEAS5 mean  229.2 mm, CHIRPS mean  221.1 mm, bias   +8.0 mm, correlation incl. seasonal cycle 0.627, n = 17784

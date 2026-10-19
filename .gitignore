@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.grib
+*.idx
+*_subset.*
+figures/_old_v1/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+desktop.ini

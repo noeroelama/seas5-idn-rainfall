@@ -1,0 +1,16 @@
+# Python 3.13.16
+lightgbm==4.7.0
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+matplotlib==3.11.2
+openpyxl==3.1.5
+pyarrow==26.0.0
+# only for 01_download_seas5.py and 02_province_members.py
+cdsapi==0.7.7
+xarray==2026.9.0
+cfgrib==0.9.15.1
+eccodes==2.50.0

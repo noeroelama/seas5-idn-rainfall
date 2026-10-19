@@ -1,0 +1,153 @@
+province,neighbour
+Aceh,Jambi
+Aceh,North Sumatra
+Aceh,Riau
+Aceh,West Sumatra
+Bali,Central Java
+Bali,East Java
+Bali,West Nusa Tenggara
+Bali,Yogyakarta
+Bangka Belitung Islands,Jakarta
+Bangka Belitung Islands,Jambi
+Bangka Belitung Islands,Lampung
+Bangka Belitung Islands,South Sumatra
+Banten,Jakarta
+Banten,Lampung
+Banten,South Sumatra
+Banten,West Java
+Bengkulu,Jambi
+Bengkulu,Lampung
+Bengkulu,South Sumatra
+Bengkulu,West Sumatra
+Central Java,East Java
+Central Java,Jakarta
+Central Java,West Java
+Central Java,Yogyakarta
+Central Kalimantan,East Kalimantan
+Central Kalimantan,North Kalimantan
+Central Kalimantan,South Kalimantan
+Central Kalimantan,West Kalimantan
+Central Papua,Highland Papua
+Central Papua,Papua
+Central Papua,South Papua
+Central Papua,West Papua
+Central Sulawesi,Gorontalo
+Central Sulawesi,South Sulawesi
+Central Sulawesi,Southeast Sulawesi
+Central Sulawesi,West Sulawesi
+East Java,Bali
+East Java,Central Java
+East Java,West Nusa Tenggara
+East Java,Yogyakarta
+East Kalimantan,Central Kalimantan
+East Kalimantan,North Kalimantan
+East Kalimantan,South Kalimantan
+East Kalimantan,West Sulawesi
+East Nusa Tenggara,Bali
+East Nusa Tenggara,South Sulawesi
+East Nusa Tenggara,Southeast Sulawesi
+East Nusa Tenggara,West Nusa Tenggara
+Gorontalo,Central Sulawesi
+Gorontalo,North Sulawesi
+Gorontalo,Southeast Sulawesi
+Gorontalo,West Sulawesi
+Highland Papua,Central Papua
+Highland Papua,Papua
+Highland Papua,South Papua
+Highland Papua,West Papua
+Jakarta,Banten
+Jakarta,Central Java
+Jakarta,Lampung
+Jakarta,West Java
+Jambi,Bengkulu
+Jambi,Riau
+Jambi,South Sumatra
+Jambi,West Sumatra
+Lampung,Bangka Belitung Islands
+Lampung,Banten
+Lampung,Jakarta
+Lampung,South Sumatra
+Maluku,Central Papua
+Maluku,North Maluku
+Maluku,Southwest Papua
+Maluku,West Papua
+North Kalimantan,Central Kalimantan
+North Kalimantan,East Kalimantan
+North Kalimantan,South Kalimantan
+North Kalimantan,West Kalimantan
+North Maluku,Gorontalo
+North Maluku,Maluku
+North Maluku,North Sulawesi
+North Maluku,Southwest Papua
+North Sulawesi,Central Sulawesi
+North Sulawesi,Gorontalo
+North Sulawesi,North Maluku
+North Sulawesi,Southeast Sulawesi
+North Sumatra,Aceh
+North Sumatra,Jambi
+North Sumatra,Riau
+North Sumatra,West Sumatra
+Papua,Central Papua
+Papua,Highland Papua
+Papua,South Papua
+Papua,West Papua
+Riau,Jambi
+Riau,North Sumatra
+Riau,Riau Islands
+Riau,West Sumatra
+Riau Islands,Bangka Belitung Islands
+Riau Islands,Jambi
+Riau Islands,Riau
+Riau Islands,South Sumatra
+South Kalimantan,Central Kalimantan
+South Kalimantan,East Kalimantan
+South Kalimantan,South Sulawesi
+South Kalimantan,West Sulawesi
+South Papua,Central Papua
+South Papua,Highland Papua
+South Papua,Papua
+South Papua,West Papua
+South Sulawesi,Central Sulawesi
+South Sulawesi,South Kalimantan
+South Sulawesi,Southeast Sulawesi
+South Sulawesi,West Sulawesi
+South Sumatra,Bangka Belitung Islands
+South Sumatra,Bengkulu
+South Sumatra,Jambi
+South Sumatra,Lampung
+Southeast Sulawesi,Central Sulawesi
+Southeast Sulawesi,Gorontalo
+Southeast Sulawesi,South Sulawesi
+Southeast Sulawesi,West Sulawesi
+Southwest Papua,Central Papua
+Southwest Papua,Maluku
+Southwest Papua,North Maluku
+Southwest Papua,West Papua
+West Java,Banten
+West Java,Central Java
+West Java,Jakarta
+West Java,Yogyakarta
+West Kalimantan,Bangka Belitung Islands
+West Kalimantan,Central Kalimantan
+West Kalimantan,East Kalimantan
+West Kalimantan,South Kalimantan
+West Nusa Tenggara,Bali
+West Nusa Tenggara,East Java
+West Nusa Tenggara,East Nusa Tenggara
+West Nusa Tenggara,South Sulawesi
+West Papua,Central Papua
+West Papua,Maluku
+West Papua,Papua
+West Papua,Southwest Papua
+West Sulawesi,Central Sulawesi
+West Sulawesi,South Kalimantan
+West Sulawesi,South Sulawesi
+West Sulawesi,Southeast Sulawesi
+West Sumatra,Bengkulu
+West Sumatra,Jambi
+West Sumatra,North Sumatra
+West Sumatra,Riau
+Yogyakarta,Central Java
+Yogyakarta,East Java
+Yogyakarta,Jakarta
+Yogyakarta,West Java
